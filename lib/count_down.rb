@@ -8,4 +8,5 @@ while count >= 0
   else
     puts count
   end
-  count
+  count -= 1
+end
