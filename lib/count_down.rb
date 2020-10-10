@@ -7,3 +7,5 @@ while count >= 0
     puts "Happy New Year!"
   else
     puts count
+  end
+  count
